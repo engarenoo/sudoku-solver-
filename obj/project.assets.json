@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Microsoft.Z3/4.12.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Z3.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Z3.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/Microsoft.Z3.targets": {}
+        },
+        "runtimeTargets": {
+          "runtimes/osx-x64/native/libz3.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win-x64/native/libz3.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Z3/4.12.2": {
+      "sha512": "dOV/D1K+OH2Ris7HcXHM2OIyHaFc6t3twNg9d8xqRKs3JZBvWgTp+OmzVfNGPn+Yz/wQDAHeWgecJly5aHGYAw==",
+      "type": "package",
+      "path": "microsoft.z3/4.12.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Microsoft.Z3.targets",
+        "content/icon.jpg",
+        "lib/netstandard2.0/Microsoft.Z3.dll",
+        "lib/netstandard2.0/Microsoft.Z3.xml",
+        "microsoft.z3.4.12.2.nupkg.sha512",
+        "microsoft.z3.nuspec",
+        "runtimes/osx-x64/native/libz3.dylib",
+        "runtimes/win-x64/native/libz3.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Microsoft.Z3 >= 4.12.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\n.boroomand\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\n.boroomand\\source\\repos\\sudoku solver - uni\\sudoku solver - uni.csproj",
+      "projectName": "sudoku solver - uni",
+      "projectPath": "C:\\Users\\n.boroomand\\source\\repos\\sudoku solver - uni\\sudoku solver - uni.csproj",
+      "packagesPath": "C:\\Users\\n.boroomand\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\n.boroomand\\source\\repos\\sudoku solver - uni\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\n.boroomand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://10.100.128.85:8080/repos/repository/NugetHostedNew/": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Microsoft.Z3": {
+            "target": "Package",
+            "version": "[4.12.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.100.128.85:8080/repos/repository/NugetHostedNew/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

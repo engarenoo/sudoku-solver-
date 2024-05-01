@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "yvdYui+K9WU9pBEzMumb2E2YQ+8cDSazFdxgdYt2KSvxXcTyVQ7unrh6aTBIhXifDGT3AV4HEHwGXAiUY6GMkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\n.boroomand\\source\\repos\\sudoku solver - uni\\sudoku solver - uni.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n.boroomand\\.nuget\\packages\\microsoft.z3\\4.12.2\\microsoft.z3.4.12.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.100.128.85:8080/repos/repository/NugetHostedNew/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

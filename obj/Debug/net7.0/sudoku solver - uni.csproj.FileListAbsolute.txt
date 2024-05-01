@@ -1,0 +1,20 @@
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\bin\Debug\net7.0\libz3.dll
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\bin\Debug\net7.0\sudoku solver - uni.exe
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\bin\Debug\net7.0\sudoku solver - uni.deps.json
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\bin\Debug\net7.0\sudoku solver - uni.runtimeconfig.json
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\bin\Debug\net7.0\sudoku solver - uni.dll
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\bin\Debug\net7.0\sudoku solver - uni.pdb
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\bin\Debug\net7.0\Microsoft.Z3.dll
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\bin\Debug\net7.0\runtimes\osx-x64\native\libz3.dylib
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\bin\Debug\net7.0\runtimes\win-x64\native\libz3.dll
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\obj\Debug\net7.0\sudoku solver - uni.csproj.AssemblyReference.cache
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\obj\Debug\net7.0\sudoku solver - uni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\obj\Debug\net7.0\sudoku solver - uni.AssemblyInfoInputs.cache
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\obj\Debug\net7.0\sudoku solver - uni.AssemblyInfo.cs
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\obj\Debug\net7.0\sudoku solver - uni.csproj.CoreCompileInputs.cache
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\obj\Debug\net7.0\sudoku s.30EA548A.Up2Date
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\obj\Debug\net7.0\sudoku solver - uni.dll
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\obj\Debug\net7.0\refint\sudoku solver - uni.dll
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\obj\Debug\net7.0\sudoku solver - uni.pdb
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\obj\Debug\net7.0\sudoku solver - uni.genruntimeconfig.cache
+C:\Users\n.boroomand\source\repos\sudoku solver - uni\obj\Debug\net7.0\ref\sudoku solver - uni.dll
